@@ -14,7 +14,7 @@ class solve_NFXP():
         # Successive approximations step
         self.sa_max = 50      # Maximum number of contractions steps
         self.sa_min = 10      # Minimum number of contraction steps
-        self.sa_tol = 1.0e-10 # Absolut toletance before
+        self.sa_tol = 1.0e-10 # Absolut tolerance before
 
         # Newton-Kantorovich steps
         self.max_fxpiter = 5     # Maximum number of times to switch between Newton-Kantorovich iterations and contraction iterations.

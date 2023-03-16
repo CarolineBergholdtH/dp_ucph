@@ -1,4 +1,4 @@
-# Zurcher class: Contains model parts for Rust's engine repplacement model Rust(Ecta, 1987)
+# Zurcher class: Contains model parts for Rust's engine replacement model Rust(Ecta, 1987)
 
 #import packages
 import numpy as np
